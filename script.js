@@ -73,7 +73,7 @@ const questions = [
 {
   question: "Which HTML tag is used to show emphasized text?",
   options: ["<em>", "<strong>", "<i>", "<b>"],
-  answer: 0
+  answer: 1
 },
 {
   question: "What does the 'align' attribute do?",
@@ -88,7 +88,7 @@ const questions = [
 {
   question: "Which tag is used for inserting a horizontal line?",
   options: ["<hr>", "<line>", "<break>", "<border>"],
-  answer: 0
+  answer: 1
 },
 {
   question: "Which tag is used to display a short quote?",
