@@ -49,7 +49,52 @@ const questions = [
     question: "Which tag is used to show superscript like 2<sup>2</sup>?",
     options: ["<sub>", "<upper>", "<super>", "<sup>"],
     answer: 3
-  }
+  },
+  {
+   question: "Which tag is used to create a hyperlink?",
+   options: ["<a>", "<link>", "<href>", "<url>"],
+   answer: 1
+  },
+{
+  question: "What is the correct syntax to add an image in HTML?",
+  options: [
+    "<img href='image.jpg'>",
+    "<img link='image.jpg'>",
+    "<img src='image.jpg'>",
+    "<image src='image.jpg'>"
+  ],
+  answer: 2
+},
+{
+  question: "Which attribute is used to provide a CSS class in HTML?",
+  options: ["id", "style", "class", "css"],
+  answer: 2
+},
+{
+  question: "Which HTML tag is used to show emphasized text?",
+  options: ["<em>", "<strong>", "<i>", "<b>"],
+  answer: 0
+},
+{
+  question: "What does the 'align' attribute do?",
+  options: [
+    "Changes font color",
+    "Aligns the element on the page",
+    "Inserts spacing",
+    "Makes text bold"
+  ],
+  answer: 1
+},
+{
+  question: "Which tag is used for inserting a horizontal line?",
+  options: ["<hr>", "<line>", "<break>", "<border>"],
+  answer: 0
+},
+{
+  question: "Which tag is used to display a short quote?",
+  options: ["<blockquote>", "<quote>", "<q>", "<ref>"],
+  answer: 2
+}
 ];
 
 let current = 0;
