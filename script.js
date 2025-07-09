@@ -93,7 +93,7 @@ const questions = [
 {
   question: "Which tag is used to display a short quote?",
   options: ["<blockquote>", "<quote>", "<q>", "<ref>"],
-  answer: 2
+  answer: 3
 }
 ];
 
