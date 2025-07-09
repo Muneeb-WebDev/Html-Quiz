@@ -8,12 +8,12 @@ const questions = [
       "High Tech Marking Language",
       "Home Tool Markup Language"
     ],
-    answer: 1
+    answer: 2
   },
   {
     question: "Which tag is used for the main heading?",
     options: ["<p>", "<heading>", "<h1>", "<h6>"],
-    answer: 2
+    answer: 3
   },
   {
     question: "What happens when you give space between words in HTML?",
@@ -23,27 +23,27 @@ const questions = [
       "Only one space is kept",
       "All spaces are shown as it is"
     ],
-    answer: 2
+    answer: 3
   },
   {
     question: "What is the correct HTML tag for a paragraph?",
     options: ["<para>", "<p>", "<pg>", "<text>"],
-    answer: 1
+    answer: 2
   },
   {
     question: "Which tag inserts an image?",
     options: ["<src>", "<img>", "<image>", "<media>"],
-    answer: 1
+    answer: 2
   },
   {
     question: "What is the use of the href attribute?",
     options: ["To add image", "To link CSS", "To add hyperlink", "To align text"],
-    answer: 2
+    answer: 3
   },
   {
     question: "Which attribute is used to change the text color?",
     options: ["class", "style", "id", "src"],
-    answer: 1
+    answer: 2
   },
   {
     question: "Which tag is used to show superscript like 2<sup>2</sup>?",
@@ -63,12 +63,12 @@ const questions = [
     "<img src='image.jpg'>",
     "<image src='image.jpg'>"
   ],
-  answer: 2
+  answer: 3
 },
 {
   question: "Which attribute is used to provide a CSS class in HTML?",
   options: ["id", "style", "class", "css"],
-  answer: 2
+  answer: 3
 },
 {
   question: "Which HTML tag is used to show emphasized text?",
@@ -83,7 +83,7 @@ const questions = [
     "Inserts spacing",
     "Makes text bold"
   ],
-  answer: 1
+  answer: 2
 },
 {
   question: "Which tag is used for inserting a horizontal line?",
